@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2.7em;
+    font-size: 3.5em;
 }
 
 h3 {
@@ -92,7 +92,7 @@ nav a:hover {
     align-items: center;
 }
 
-.hero h1 {
+.hero h2 {
     text-align: center;
     font-size: 1.5em;
     color: white;
@@ -113,7 +113,7 @@ nav a:hover {
     flex-direction: column;
 }
 
-.sobre-nosotros h1 {
+.sobre-nosotros h2 {
     text-align: center;
 }
 
@@ -139,7 +139,7 @@ nav a:hover {
     grid-template-rows: auto;
     grid-gap: 20px;
 }
-.mision-vision h1 {
+.mision-vision h2 {
     text-align: center;
     font-size: 40px;
 }
@@ -169,7 +169,7 @@ nav a:hover {
     justify-content: space-between;
 }
 
-.card h1 {
+.card h3 {
     font-size: 50px;
     margin: 0;
     color: blueviolet;
@@ -234,4 +234,3 @@ nav a:hover {
     color: #444;
 
 }
-
